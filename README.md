@@ -5,10 +5,10 @@
 
 En mi perfil encontrarás diferentes herramientas y proyectos enfocados en seguridad. No me hago responsable del mal uso que terceros puedan llegar a darle a alguna de las herramientas publicadas; todo el material tiene fines estrictamente educativos y de auditoría ética.
 
-<p align="center"> <img width="250px" src="https://raw.githubusercontent.com/MatiasWhite-Hat/MatiasWhite-Hat/main/PixelSkull.gif"> </p>
+<p align="center"> <img width="250px" src="https://raw.githubusercontent.com/0xKroveth/0xKroveth/main/PixelSkull.gif"> </p>
 
-<img src="https://komarev.com/ghpvc/?username=MatiasWhite-Hat&style=flat-square&color=blue"> 
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MatiasWhite-Hat?style=social">
+<img src="https://komarev.com/ghpvc/?username=0xKroveth&style=flat-square&color=blue"> 
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/0xKroveth?style=social">
 
 ---
 
@@ -21,7 +21,7 @@ En mi perfil encontrarás diferentes herramientas y proyectos enfocados en segur
 
 Estas son mis plataformas y redes oficiales por si quieres contactarme o seguir mis proyectos de seguridad.
 
-<p align="center"> <img width="250px" src="https://raw.githubusercontent.com/MatiasWhite-Hat/MatiasWhite-Hat/main/PixelCode.gif"> </p>
+<p align="center"> <img width="250px" src="https://raw.githubusercontent.com/0xKroveth/0xKroveth/main/PixelCode.gif"> </p>
 
 ---
 
@@ -44,8 +44,8 @@ Estas son mis plataformas y redes oficiales por si quieres contactarme o seguir 
 
 # Estadísticas :
 
-![](https://github-readme-stats.vercel.app/api?username=MatiasWhite-Hat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatiasWhite-Hat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasWhite-Hat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=0xKroveth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xKroveth&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKroveth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
