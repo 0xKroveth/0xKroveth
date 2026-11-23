@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a0000,100:ff0033&height=190&section=header&text=0xKroveth&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Pentester%20%C2%B7%20Ciberseguridad%20ofensiva%20%C2%B7%20CTF&descAlignY=62&descSize=18&animation=fadeIn" alt="0xKroveth">
+  <img width="100%" src="assets/banner.svg" alt="0xKroveth">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
   <a href="https://profile.hackthebox.com/profile/01a166a1-2c68-7107-854b-708c5a07840f"><img src="https://img.shields.io/badge/HackTheBox-Top_3_Chile_🇨🇱-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111927" alt="HackTheBox Top 3 Chile"></a>
 </p>
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 💀 Sobre mí
 
@@ -24,17 +24,13 @@
 
 ¡Bienvenido a mi GitHub! Me dedico a la **ciberseguridad ofensiva, el pentesting y la investigación de vulnerabilidades**. Suelo crear herramientas automatizadas para facilitar tareas de seguridad, auditar aplicaciones y sistemas, y resolver retos en entornos CTF y laboratorios.
 
-```yaml
-rol:        Pentester / Investigador de seguridad
-enfoque:    [ Web, Redes, OSINT, Automatización, CTF ]
-aprendiendo: [ Red Team, Explotación, Análisis de malware ]
-logros:     [ "HackTheBox Top 3 Chile", "Pro Lab Mythical", "Pro Lab Puppet" ]
-lema:       "Hack ethically. Learn always."
-```
+<p align="center">
+  <img width="100%" src="assets/terminal.svg" alt="Terminal de 0xKroveth">
+</p>
 
 > ⚠️ Todo el material publicado tiene fines **estrictamente educativos y de auditoría ética**. No me hago responsable del mal uso que terceros puedan darle a las herramientas.
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 🏆 Certificaciones
 
@@ -48,7 +44,7 @@ lema:       "Hack ethically. Learn always."
 | **Mythical** · Pro Lab | Hack The Box | Nov 2026 | ✅ Verificado |
 | **Puppet** · Pro Lab | Hack The Box | Nov 2026 | ✅ Verificado |
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 🛠️ Proyectos destacados
 
@@ -58,7 +54,7 @@ lema:       "Hack ethically. Learn always."
   <a href="https://github.com/0xKroveth/esp32lucesled"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xKroveth&repo=esp32lucesled&theme=dark&bg_color=0d1117&title_color=ff0033&icon_color=00ff66&text_color=c9d1d9&border_color=ff0033" alt="esp32lucesled"></a>
 </p>
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 🧰 Arsenal
 
@@ -74,7 +70,7 @@ lema:       "Hack ethically. Learn always."
   <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap">
 </p>
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 📊 Estadísticas
 
@@ -91,7 +87,7 @@ lema:       "Hack ethically. Learn always."
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKroveth&bg_color=0d1117&color=c9d1d9&line=ff0033&point=00ff66&area=true&area_color=ff0033&hide_border=true&title_color=ff0033" alt="Actividad">
 </p>
 
----
+<p align="center"><img width="100%" src="assets/divider.svg" alt=""></p>
 
 ## 📡 Contacto
 
