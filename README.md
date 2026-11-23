@@ -13,6 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=0xKroveth&style=for-the-badge&color=ff0033&label=VISITAS" alt="Visitas">
   <img src="https://img.shields.io/github/stars/0xKroveth?style=for-the-badge&color=00ff66&labelColor=000000&label=ESTRELLAS" alt="Estrellas">
   <img src="https://img.shields.io/github/followers/0xKroveth?style=for-the-badge&color=ff0033&labelColor=000000&label=SEGUIDORES" alt="Seguidores">
+  <a href="https://profile.hackthebox.com/profile/01a166a1-2c68-7107-854b-708c5a07840f"><img src="https://img.shields.io/badge/HackTheBox-Top_3_Chile_🇨🇱-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111927" alt="HackTheBox Top 3 Chile"></a>
 </p>
 
 ---
@@ -27,6 +28,7 @@
 rol:        Pentester / Investigador de seguridad
 enfoque:    [ Web, Redes, OSINT, Automatización, CTF ]
 aprendiendo: [ Red Team, Explotación, Análisis de malware ]
+logro:      "HackTheBox: Top 3 de Chile"
 lema:       "Hack ethically. Learn always."
 ```
 
@@ -85,7 +87,7 @@ lema:       "Hack ethically. Learn always."
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
-  <a href="https://hackthebox.com"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="HackTheBox"></a>
+  <a href="https://profile.hackthebox.com/profile/01a166a1-2c68-7107-854b-708c5a07840f"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=00FF66" alt="HackTheBox"></a>
 </p>
 
 <p align="center">
