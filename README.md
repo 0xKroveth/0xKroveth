@@ -28,11 +28,25 @@
 rol:        Pentester / Investigador de seguridad
 enfoque:    [ Web, Redes, OSINT, Automatización, CTF ]
 aprendiendo: [ Red Team, Explotación, Análisis de malware ]
-logro:      "HackTheBox: Top 3 de Chile"
+logros:     [ "HackTheBox Top 3 Chile", "Pro Lab Mythical", "Pro Lab Puppet" ]
 lema:       "Hack ethically. Learn always."
 ```
 
 > ⚠️ Todo el material publicado tiene fines **estrictamente educativos y de auditoría ética**. No me hago responsable del mal uso que terceros puedan darle a las herramientas.
+
+---
+
+## 🏆 Certificaciones
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/01a166a1-2c68-7107-854b-708c5a07840f"><img src="https://img.shields.io/badge/HTB_Pro_Lab-Mythical_%E2%9C%94-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111927" alt="HTB Pro Lab Mythical"></a>
+  <a href="https://profile.hackthebox.com/profile/01a166a1-2c68-7107-854b-708c5a07840f"><img src="https://img.shields.io/badge/HTB_Pro_Lab-Puppet_%E2%9C%94-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=111927" alt="HTB Pro Lab Puppet"></a>
+</p>
+
+| Certificación | Emisor | Fecha | Estado |
+|:--|:--|:--|:--|
+| **Mythical** · Pro Lab | Hack The Box | Nov 2026 | ✅ Verificado |
+| **Puppet** · Pro Lab | Hack The Box | Nov 2026 | ✅ Verificado |
 
 ---
 
