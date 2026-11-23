@@ -72,8 +72,8 @@ Me dedico a la **ciberseguridad ofensiva**: pentesting, investigación de vulner
 ## Estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=0xKroveth&locale=es&show_icons=true&hide_rank=true&hide=prs,issues,contribs&custom_title=Estad%C3%ADsticas%20de%200xKroveth&hide_border=true&bg_color=0d1117&title_color=ff3355&icon_color=1793d1&text_color=c9d1d9" alt="Estadísticas">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKroveth&locale=es&layout=compact&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_border=true&bg_color=0d1117&title_color=ff3355&text_color=c9d1d9" alt="Lenguajes">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xKroveth&locale=es&show_icons=true&hide_rank=true&hide=prs,issues&card_width=430&custom_title=Estad%C3%ADsticas%20de%200xKroveth&hide_border=true&bg_color=0d1117&title_color=ff3355&icon_color=1793d1&text_color=c9d1d9" alt="Estadísticas">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKroveth&locale=es&layout=compact&custom_title=Lenguajes%20m%C3%A1s%20usados&hide_border=true&bg_color=0d1117&title_color=ff3355&text_color=c9d1d9" alt="Lenguajes">
 </p>
 
 <p align="center">
