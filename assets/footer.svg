@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="900" height="70" role="img" aria-label="Fin de la transmisión">
-<style>
-text{font:600 15px 'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace;white-space:pre}
-.r{fill:#ff0033}.g{fill:#00ff66}.w{fill:#c9d1d9}.d{fill:#8b949e}
-.cur{fill:#00ff66;animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
-.bar{animation:load 5s ease-in-out infinite}@keyframes load{0%{width:0}70%,100%{width:860px}}
-</style>
-<rect width="900" height="70" rx="10" fill="#0a0b0f"/>
-<rect x="20" y="14" width="860" height="4" rx="2" fill="#1b1e24"/>
-<rect class="bar" x="20" y="14" width="0" height="4" rx="2" fill="#ff0033"/>
-<text x="450" y="48" text-anchor="middle"><tspan class="d">[</tspan><tspan class="g"> EOF </tspan><tspan class="d">]</tspan><tspan class="w"> conexión cerrada por </tspan><tspan class="r">0xKroveth</tspan><tspan class="w"> · gracias por visitar </tspan><tspan class="cur">_</tspan></text>
-<rect x=".5" y=".5" width="899" height="69" rx="10" fill="none" stroke="#ff0033" stroke-opacity=".4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="Gracias por visitar">
+<style>text{font:500 14px 'JetBrains Mono','Fira Code','DejaVu Sans Mono',Consolas,'Courier New',monospace;white-space:pre}.m{fill:#8b949e}.g{fill:#3fb950;font-weight:700}.b{fill:#1793d1;font-weight:700}.r{fill:#ff3355;font-weight:700}.t{fill:#c9d1d9}
+.cur{fill:#3fb950;animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect width="900" height="56" rx="10" fill="#0a0c10"/>
+<text x="450" y="33" text-anchor="middle"><tspan class="m">[</tspan><tspan class="g">0xKroveth</tspan><tspan class="m">@</tspan><tspan class="b">arch</tspan><tspan class="m"> ~]$ </tspan><tspan class="t">exit </tspan><tspan class="m"># gracias por visitar · </tspan><tspan class="r">Hack ethically. Learn always.</tspan><tspan class="cur"> _</tspan></text>
+<rect x=".5" y=".5" width="899" height="55" rx="10" fill="none" stroke="#30363d"/>
 </svg>
